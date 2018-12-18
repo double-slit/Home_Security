@@ -1,0 +1,4 @@
+char ssid[] = "Bajaj"; // Enter your WiFi SSID (router name)
+char pass[] = "9815450777"; // Enter your WiFi router password 
+unsigned long myChannelNumber = 527493; // Enter your Thingspeak Channel Number 
+const char * myWriteAPIKey = "DD4234664GDS23334D"; // Enter your ThingSpeak API Key
